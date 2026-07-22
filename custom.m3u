@@ -7,11 +7,7 @@ https://pmchls.wns.live/hls/stream.m3u8
 https://pmcrohls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="RJTV.us@SD" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Persian Music",Radio Javan TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://play.radiojavan.com/
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-reconnect=true
-https://rjtvhls.wns.live/hls/stream.m3u8?v=20260723
+https://rjtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AvangTV.us@SD" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Persian Music",Avang TV
 https://hls.avang.live/hls/stream.m3u8
