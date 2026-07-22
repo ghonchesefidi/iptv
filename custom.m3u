@@ -1,4 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="PMC.ae@SD" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC
+#EXTINF:-1 tvg-id="PMC.ae@SD" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Persian Music",PMC
 https://pmchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PMCRoyale.ae@SD" group-title="Persian Music",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RJTV.us@SD" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Persian Music",Radio Javan TV
+https://rjtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AvangTV.us@SD" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="Persian Music",Avang TV
+https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="NavahangTV.fi@SD" tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="Persian Music",Navahang TV
+https://hls.navahang.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="T2TV.ir@SD" tvg-logo="https://i.imgur.com/Wu8MBb7.png" group-title="Persian Music",T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="4Music.fr@SD" group-title="Persian Music",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaFolk.fr@HD" group-title="Persian Music",Persiana Folk
+https://sonhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaNostalgia.fr@SD" tvg-logo="https://i.imgur.com/SWO9CKA.png" group-title="Persian Music",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="HighVisionTV.us@SD" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="Persian Music",High Vision
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+
+#EXTINF:-1 tvg-id="AFNTV.ir@SD" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="Persian Music",AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
